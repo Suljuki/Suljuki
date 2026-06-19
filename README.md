@@ -1,12 +1,2 @@
-- 👋 Hi, I’m Haseeb Riaz
-- 👀 I’m interested in Software development 
-- 🌱 I’m currently learning Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Suljuki/Suljuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My Name is Haseeb Riaz
+I am Software Engineer
